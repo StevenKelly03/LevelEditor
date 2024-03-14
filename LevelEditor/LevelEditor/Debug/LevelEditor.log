@@ -1,0 +1,308 @@
+﻿  Game.cpp
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(300,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(300,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(331,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(332,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(336,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(337,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(342,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(343,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(361,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(362,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(366,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(367,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(372,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(373,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(378,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(379,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(397,23): warning C4018: '<': signed/unsigned mismatch
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,110): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,110): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,110): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,110): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,110): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,110): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,110): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,110): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,110): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,97): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,97): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,97): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,97): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,97): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,97): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,97): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,97): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,97): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,73): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,73): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,73): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,73): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,73): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,73): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,73): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,73): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,54): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,54): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,54): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,54): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,54): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,54): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,54): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(407,54): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,79): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,79): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,79): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,79): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,79): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,79): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,79): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,79): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,79): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,64): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,64): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,64): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,64): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,64): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,64): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,64): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(418,64): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,85): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,85): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,85): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,85): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,85): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,85): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,85): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,85): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,70): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,70): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,70): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,70): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,70): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,70): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,70): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(423,70): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,85): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,85): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,85): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,85): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,85): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,85): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,85): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,85): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,85): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,70): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,70): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,70): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,70): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,70): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,70): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,70): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,70): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(428,70): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,88): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,88): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,88): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,88): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,88): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,88): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,88): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,88): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,88): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,73): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,73): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,73): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,73): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,73): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,73): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,73): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(433,73): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,121): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,121): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,121): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,121): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,121): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,121): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,121): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,121): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,121): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,104): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,104): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,104): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,104): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,104): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,104): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,104): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,104): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(444,104): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,127): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,127): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,127): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,127): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,127): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,127): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,127): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,127): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,127): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,110): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,110): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,110): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,110): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,110): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,110): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,110): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,110): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(448,110): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,128): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,128): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,128): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,128): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,128): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,128): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,128): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,128): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,128): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,111): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,111): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,111): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,111): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,111): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,111): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,111): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,111): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(452,111): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,130): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,130): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,130): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,130): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,130): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,130): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,130): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,130): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,130): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,113): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,113): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,113): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,113): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,113): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,113): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,113): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,113): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(456,113): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,121): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,121): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,121): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,121): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,121): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,121): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,121): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,121): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,121): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,104): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,104): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,104): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,104): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,104): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,104): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,104): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,104): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(465,104): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,127): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,127): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,127): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,127): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,127): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,127): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,127): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,127): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,127): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,110): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,110): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,110): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,110): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,110): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,110): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,110): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,110): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(469,110): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,128): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,128): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,128): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,128): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,128): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,128): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,128): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,128): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,128): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,111): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,111): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,111): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,111): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,111): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,111): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,111): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,111): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(473,111): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,130): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,130): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,130): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,130): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,130): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,130): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,130): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,130): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,130): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,113): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,113): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,113): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,113): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,113): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,113): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,113): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,113): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(477,113): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(589,23): warning C4018: '<': signed/unsigned mismatch
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,126): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,126): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,126): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,126): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,126): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,126): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,126): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,126): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,126): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,109): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,109): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,109): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,109): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,109): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,109): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,109): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,109): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,109): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,77): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,77): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,77): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,77): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,77): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,77): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,77): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,77): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,77): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,54): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,54): warning C4244:         with
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,54): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,54): warning C4244:             T=float
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,54): warning C4244:         ]
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,54): warning C4244:         and
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,54): warning C4244:         [
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,54): warning C4244:             T=int
+C:\Motion Graphics\LevelEditor\LevelEditor\Game.cpp(599,54): warning C4244:         ]
+  LevelEditor.vcxproj -> C:\Motion Graphics\LevelEditor\Debug\LevelEditor.exe

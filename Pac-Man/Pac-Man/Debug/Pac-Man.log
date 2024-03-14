@@ -1,0 +1,33 @@
+﻿  Game.cpp
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(65,45): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(65,45): warning C4244:         with
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(65,45): warning C4244:         [
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(65,45): warning C4244:             T=float
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(65,45): warning C4244:         ]
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(66,46): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(66,46): warning C4244:         with
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(66,46): warning C4244:         [
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(66,46): warning C4244:             T=float
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(66,46): warning C4244:         ]
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(70,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(70,42): warning C4244:         with
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(70,42): warning C4244:         [
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(70,42): warning C4244:             T=float
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(70,42): warning C4244:         ]
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(71,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(71,43): warning C4244:         with
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(71,43): warning C4244:         [
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(71,43): warning C4244:             T=float
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(71,43): warning C4244:         ]
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(133,14): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(244,41): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(244,41): warning C4244:         with
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(244,41): warning C4244:         [
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(244,41): warning C4244:             T=float
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(244,41): warning C4244:         ]
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(245,40): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(245,40): warning C4244:         with
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(245,40): warning C4244:         [
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(245,40): warning C4244:             T=float
+C:\Motion Graphics\Pac-Man\Pac-Man\Game.cpp(245,40): warning C4244:         ]
+  Pac-Man.vcxproj -> C:\Motion Graphics\Pac-Man\Debug\Pac-Man.exe

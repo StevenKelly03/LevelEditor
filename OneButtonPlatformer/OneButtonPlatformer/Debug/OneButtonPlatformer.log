@@ -1,0 +1,28 @@
+﻿  Game.cpp
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(39,48): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(136,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(136,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(143,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(143,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(149,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(149,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(158,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(158,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(165,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(165,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(172,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(172,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(196,89): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(196,89): warning C4244:         with
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(196,89): warning C4244:         [
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(196,89): warning C4244:             T=unsigned int
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(196,89): warning C4244:         ]
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(196,57): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(196,57): warning C4244:         with
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(196,57): warning C4244:         [
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(196,57): warning C4244:             T=unsigned int
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(196,57): warning C4244:         ]
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(218,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(228,19): warning C4305: '=': truncation from 'double' to 'float'
+C:\Motion Graphics\OneButtonPlatformer\OneButtonPlatformer\Game.cpp(244,15): warning C4305: '=': truncation from 'double' to 'float'
+  OneButtonPlatformer.vcxproj -> C:\Motion Graphics\OneButtonPlatformer\Debug\OneButtonPlatformer.exe
